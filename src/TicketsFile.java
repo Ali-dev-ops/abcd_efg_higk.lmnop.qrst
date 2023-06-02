@@ -1,0 +1,2 @@
+public class TicketsFile {
+}
